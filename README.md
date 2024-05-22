@@ -1,16 +1,24 @@
-### Hi there 👋
+<h3 align="center">👋   Hello! My name is Nha   👋 <br/> "Mai Thanh Nha" </h3>
 
+<div id="badges" align="center">
+  <a href="https://twitter.com/olym3labs">
+    <img src="https://img.shields.io/badge/Twitter-green?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://facebook.com/olym3labs">
+    <img src="https://img.shields.io/badge/Facebook-gray?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Telegram-yellow?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <br/>
+</div>
 
-**olym3labs/olym3labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+**About Olym3 Labs**
+- Olym3 Labs is an innovative information services firm dedicated to empowering small businesses by integrating blockchain technology into their operations. Specializing in secure, decentralized solutions, Olym3 Labs offers a range of services designed to enhance transparency, efficiency, and trust in business processes.
+- From creating smart contracts that automate transactions to developing blockchain-based systems for data integrity, Olym3 Labs tailors its offerings to meet the unique needs of small enterprises aiming to stay competitive in a rapidly evolving digital landscape. With a team of experienced professionals and a commitment to client success, Olym3 Labs is your go-to partner for harnessing the transformative power of blockchain, ensuring your business not only adapts but thrives.
+-----------------------
 
