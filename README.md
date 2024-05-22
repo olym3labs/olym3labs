@@ -1,4 +1,4 @@
-<h3 align="center">👋   Hello! My name is Nha   👋 <br/> "Mai Thanh Nha" </h3>
+<h3 align="center">👋   OLYM3 LABS   👋 <br/> "olym3labs.com" </h3>
 
 <div id="badges" align="center">
   <a href="https://twitter.com/olym3labs">
