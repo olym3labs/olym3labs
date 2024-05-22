@@ -19,6 +19,7 @@
 ---
 **About Olym3 Labs**
 - Olym3 Labs is an innovative information services firm dedicated to empowering small businesses by integrating blockchain technology into their operations. Specializing in secure, decentralized solutions, Olym3 Labs offers a range of services designed to enhance transparency, efficiency, and trust in business processes.
-- From creating smart contracts that automate transactions to developing blockchain-based systems for data integrity, Olym3 Labs tailors its offerings to meet the unique needs of small enterprises aiming to stay competitive in a rapidly evolving digital landscape. With a team of experienced professionals and a commitment to client success, Olym3 Labs is your go-to partner for harnessing the transformative power of blockchain, ensuring your business not only adapts but thrives.
+- From creating smart contracts that automate transactions to developing blockchain-based systems for data integrity, Olym3 Labs tailors its offerings to meet the unique needs of small enterprises aiming to stay competitive in a rapidly evolving digital landscape.
+- With a team of experienced professionals and a commitment to client success, Olym3 Labs is your go-to partner for harnessing the transformative power of blockchain, ensuring your business not only adapts but thrives.
 -----------------------
 
