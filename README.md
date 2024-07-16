@@ -7,7 +7,7 @@
   <a href="#">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://facebook.com/olym3labs">
+  <a href="#">
     <img src="https://img.shields.io/badge/Facebook-gray?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="#">
