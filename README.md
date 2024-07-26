@@ -16,7 +16,7 @@
   <br/>
 </div>
 
-<h3 align="center">My BOUNTY wallet address [here](https://github.com/olym3labs/BOUNTY/blob/main/BOUNTY.json).</h3>
+<p align="center">My BOUNTY wallet address [here](https://github.com/olym3labs/BOUNTY/blob/main/BOUNTY.json).</p>
 ---
 **About Olym3 Labs**
 - Olym3 Labs is an innovative information services firm dedicated to empowering small businesses by integrating blockchain technology into their operations. Specializing in secure, decentralized solutions, Olym3 Labs offers a range of services designed to enhance transparency, efficiency, and trust in business processes.
