@@ -16,8 +16,6 @@
   <br/>
 </div>
 
-# My GitHub Profile
-
 You can find my BOUNTY wallet address [here](https://github.com/olym3labs/BOUNTY/blob/main/BOUNTY.json).
 ---
 **About Olym3 Labs**
