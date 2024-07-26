@@ -22,5 +22,5 @@
 - From creating smart contracts that automate transactions to developing blockchain-based systems for data integrity, Olym3 Labs tailors its offerings to meet the unique needs of small enterprises aiming to stay competitive in a rapidly evolving digital landscape.
 - With a team of experienced professionals and a commitment to client success, Olym3 Labs is your go-to partner for harnessing the transformative power of blockchain, ensuring your business not only adapts but thrives.
 -----------------------
-<p align="center">My BOUNTY wallet address [here](https://github.com/olym3labs/BOUNTY/blob/main/BOUNTY.json).</p>
+My BOUNTY wallet address [here](https://github.com/olym3labs/BOUNTY/blob/main/BOUNTY.json).
 
