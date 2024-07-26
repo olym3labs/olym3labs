@@ -2,7 +2,7 @@
 
 <div id="badges" align="center">
   <a href="https://twitter.com/olym3labs">
-    <img src="https://img.shields.io/badge/Twitter-green?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-green?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
@@ -12,6 +12,9 @@
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Telegram-yellow?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://github.com/olym3labs/BOUNTY/blob/main/BOUNTY.json">
+    <img src="https://img.shields.io/badge/BOUNTY%20WALLET-blue?style=for-the-badge&logo=wallet&logoColor=white" alt="Bounty Badge"/>
   </a>
   <br/>
 </div>
