@@ -4,7 +4,7 @@
   <a href="https://twitter.com/olym3labs">
     <img src="https://img.shields.io/badge/Twitter-green?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="#">
+  <a href="https://www.youtube.com/@olym3labs">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="#">
