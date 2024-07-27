@@ -13,8 +13,8 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Telegram-yellow?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://github.com/olym3labs/BOUNTY/blob/main/BOUNTY.json">
-    <img src="https://img.shields.io/badge/BOUNTY%20WALLET-blue?style=for-the-badge&logo=wallet&logoColor=white" alt="Bounty Badge"/>
+  <a href="https://github.com/olym3labs/buildstationorg/blob/main/funding.json">
+    <img src="https://img.shields.io/badge/FUNDING%20WALLET-blue?style=for-the-badge&logo=wallet&logoColor=white" alt="Funding Badge"/>
   </a>
   <br/>
 </div>
@@ -25,5 +25,5 @@
 - From creating smart contracts that automate transactions to developing blockchain-based systems for data integrity, Olym3 Labs tailors its offerings to meet the unique needs of small enterprises aiming to stay competitive in a rapidly evolving digital landscape.
 - With a team of experienced professionals and a commitment to client success, Olym3 Labs is your go-to partner for harnessing the transformative power of blockchain, ensuring your business not only adapts but thrives.
 -----------------------
-My BOUNTY wallet address [here](https://github.com/olym3labs/BOUNTY/blob/main/BOUNTY.json).
+My FUNDING wallet address [here](https://github.com/olym3labs/buildstationorg/blob/main/funding.json).
 
